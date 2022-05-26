@@ -293,7 +293,7 @@
             </plugin>
         </plugins>
 
-    <defaultGoal>install</defaultGoal>
+<!--    <defaultGoal>install</defaultGoal>-->
     </build>
 
     <repositories>
