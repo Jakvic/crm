@@ -32,7 +32,7 @@
         <poi.version>4.1.2</poi.version>
         <velocity.version>1.7</velocity.version>
         <jwt.version>0.9.1</jwt.version>
-        <org.projectlombok.version>1.18.8</org.projectlombok.version>
+        <org.projectlombok.version>1.18.22</org.projectlombok.version>
         <miniio.version>8.3.3</miniio.version>
         <esay_excel.version>2.2.6</esay_excel.version>
         <xxl_job.version>2.1.0</xxl_job.version>
@@ -293,7 +293,7 @@
             </plugin>
         </plugins>
 
-
+    <defaultGoal>install</defaultGoal>
     </build>
 
     <repositories>
